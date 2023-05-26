@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D55aahJXmT/QxBfX5OwiBY4WJS6vNn/gqfeRrd0Fq/mREBw1coPaUal2UDpzqnNRIRKR9D5JuBRDekz/CSbeIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yaël\\Documents\\Visual Studio 2019\\Projects\\LoginAndRegisterAppDesktop\\LoginAndRegisterAppDesktop\\LoginAndRegisterAppDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaël\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Yaël\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Yaël\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
